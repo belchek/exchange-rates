@@ -1,1 +1,1 @@
-https://github.com/belchek/exchange-rates.git
+https://belchek.github.io/exchange-rates/
